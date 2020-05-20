@@ -1,0 +1,31 @@
+.head{
+    text-align: centre;
+    color: blue;
+    font-size: 25px;
+
+}
+.head img
+{
+    border-radius: 50%;
+    border: 2px solid #fff;
+    margin-top: 20px;
+}
+.head img:hover
+{
+    border: 2px solid #000;
+}
+.name
+{
+    cursor: pointer;
+     font-size: 35px;
+    font-family: Algerian;   
+}
+body{
+    background-image: url('download.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.co
+{
+    font size: 3px;
+}
